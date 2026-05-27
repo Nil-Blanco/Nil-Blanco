@@ -21,7 +21,7 @@ Currently, I work as a Mathematics Educator, which has allowed me to hone a cruc
 * 🌌 **[LISA Mission: Gravitational Wave Timing Residuals](https://github.com/Nil-Blanco/LISA-GW-numerical-simulation)**
   * **Status:** Active development.
   * **Description:** High-performance numerical simulation of the timing residuals of gravitational waves interacting with the LISA geometry.
-  * **Tech:** Modern Fortran, Python, LaTeX.
+  * **Tech:** Python, LaTeX, Modern Fortran.
   * **Highlights:** Stationary Phase Approximation (SPA) validation. Currently refining the analytical documentation and cosmological parameter sensitivity analysis.
 
 * 📈 **Algorithmic Trading Bot & Backtesting Engine**
