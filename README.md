@@ -19,7 +19,7 @@ Currently, I work as a Mathematics Educator, which has allowed me to hone a cruc
 ### 🚀 Featured Projects
 
 * 🌌 **[LISA Mission: Gravitational Wave Timing Residuals](https://github.com/Nil-Blanco/LISA-GW-numerical-simulation)**
- * **Status:** Active development.
+  * **Status:** Active development.
   * **Description:** High-performance numerical simulation of the timing residuals of gravitational waves interacting with the LISA geometry.
   * **Tech:** Modern Fortran, Python, LaTeX.
   * **Highlights:** Stationary Phase Approximation (SPA) validation. Currently refining the analytical documentation and cosmological parameter sensitivity analysis.
@@ -28,6 +28,7 @@ Currently, I work as a Mathematics Educator, which has allowed me to hone a cruc
   * **Status:** In active development (Upload pending).
   * **Description:** Development of a custom Python engine to ingest historical market data and simulate algorithmic trading strategies (including Long/Short and Parabolic SAR).
   * **Current Focus:** Optimizing the backtesting logic and data visualization routines before public release.
+    
 ---
 
 ### 📫 Let's Connect
