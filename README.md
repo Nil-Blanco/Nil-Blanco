@@ -31,7 +31,6 @@ Currently, I work as a Mathematics Educator, which has allowed me to hone a cruc
 ### 📫 Let's Connect
 I am always open to discussing technology, physics, algorithmic trading, or international academic opportunities. 
 
-* **Email:** [Tu_Correo@email.com](mailto:Tu_Correo@email.com)
-* **LinkedIn:** [linkedin.com/in/tu-perfil](https://www.linkedin.com/)
+* **Email:** [nilblanco2003@gmail.com](mailto:nilblanco2003@gmail.com)
 
 *(Fun fact: When I'm not coding or solving differential equations, you can find me training calisthenics or experimenting with Asian batch-cooking recipes! 🍜)*
